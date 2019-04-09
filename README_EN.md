@@ -1,5 +1,5 @@
 # KeyViewer
-#### A Simple KeyViewer by Orb_H
+#### A Simple Customizable KeyViewer by Orb_H
 
 ## Warning
 If you run some games, key input might be interrupted. In those cases, run KeyViewer.exe as administrator.
