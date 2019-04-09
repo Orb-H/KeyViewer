@@ -1,5 +1,5 @@
 # KeyViewer
-#### A Simple KeyViewer by Orb_H
+#### A Simple Customizable KeyViewer by Orb_H
 
 ## 주의사항
 몇몇 게임을 실행한 경우 키 입력이 인식되지 않을 수 있습니다. 그럴 때에는 관리자 권한으로 실행을 해주시기 바랍니다.
