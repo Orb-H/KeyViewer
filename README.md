@@ -27,6 +27,8 @@
 - 키를 겹쳐서 표시할 수 있다.
 - 주석을 달 수 있다. 단, 해당하는 줄의 모든 원소를 적은 뒤 개행을 하지 않고 그 뒤로 붙여 적는다.
 
+<hr/>
+
 ## How to write config.txt (English)
 1. On the first line, write width and height of container, not window. ( e.g. width 400px, height 300px: 400 300 )
 2. On the second line, write RGB of background color ( e.g. Indigo: 0 0 128 )
