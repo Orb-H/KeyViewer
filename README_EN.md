@@ -1,10 +1,10 @@
 # KeyViewer
 #### A Simple KeyViewer by Orb_H
 
-## Warning (English)
+## Warning
 If you run some games, key input might be interrupted. In those cases, run KeyViewer.exe as administrator.
 
-## How to write config.txt (English)
+## How to write config.txt
 1. On the first line, write width and height of container, not window. ( e.g. width 400px, height 300px: 400 300 )
 2. On the second line, write RGB of background color ( e.g. Indigo: 0 0 128 )
 3. On the third line, write RGB of foreground color ( e.g. White: 255 255 255 )
@@ -12,7 +12,7 @@ If you run some games, key input might be interrupted. In those cases, run KeyVi
 5. On the other lines, write Virtual Key value, text, location, and size ( e.g. Create an A key on (20, 30), with size of (40, 50), and with text of 'A': 65 A 20 30 40 50 )
 6. Repeat 5
 
-## Example config.txt (English)
+## Example config.txt
 ```300 130 // Container size
 64 64 64 // Background Color(Dark Gray)
 255 255 255 // Foreground Color(White)
@@ -25,7 +25,7 @@ If you run some games, key input might be interrupted. In those cases, run KeyVi
 40 ↓ 180 70 50 50
 ```
 
-### Interesting things about config.txt (English)
+### Interesting things about config.txt
 - You can locate same key on multiple positions.
 - You can draw keys making intersection.
 - You can write comments. But you have to append it after the complete line, without line feed.
