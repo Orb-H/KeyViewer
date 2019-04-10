@@ -2,7 +2,7 @@
 #### A Simple Customizable KeyViewer by Orb_H
 
 ## 다운로드
-[zip 파일 다운로드](https://github.com/Orb-H/KeyViewer/blob/master/KeyViewer.zip)
+[zip 파일 다운로드](https://github.com/Orb-H/KeyViewer/raw/master/KeyViewer.zip)
 
 ## 주의사항
 몇몇 게임을 실행한 경우 키 입력이 인식되지 않을 수 있습니다. 그럴 때에는 관리자 권한으로 실행을 해주시기 바랍니다.
