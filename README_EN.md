@@ -1,6 +1,9 @@
 # KeyViewer
 #### A Simple Customizable KeyViewer by Orb_H
 
+## Download
+[zip file download](https://github.com/Orb-H/KeyViewer/raw/master/KeyViewer.zip)
+
 ## Warning
 If you run some games, key input might be interrupted. In those cases, run KeyViewer.exe as administrator.
 
